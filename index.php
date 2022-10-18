@@ -1,5 +1,5 @@
 <?php
 
-include_once("wekelea.html");
+include_once("weka.html");
 
 ?>
